@@ -5,7 +5,7 @@
 - 👨‍💻 Hoje eu estudo e trabalho como Desenvolvedor Web
 - 🌱 Atualmente estou aprendendo java
 - 🤓 Tenho interesse em trabalhar com java
-- 📫 contate-me no email : ynogueiira@gmail.com
+- 📫 contate-me no e-mail : ynogueiira@gmail.com
 
 <div align="center">
   <a href="https://github.com/yuriferreira13">
